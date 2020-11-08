@@ -1,6 +1,14 @@
 ### Hello world! 👋
 I'm a software engineer developing cross-platform mobile apps using [Xamarin](https://dotnet.microsoft.com/apps/xamarin/) and [Flutter](http://flutter.dev/).
 
+💻 [Open-source projects & libraries](https://github.com/sbytedev/)
+
+📕 [Blog posts](https://prin53.medium.com/)
+
+✉️ <fiediaiev@sbyte.dev>
+
+🌐 <https://linkedin.com/in/prin53>
+
 ### Platforms
 <p>
   <img alt=".Net" width="26px" src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png" />
