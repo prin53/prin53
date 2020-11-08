@@ -58,7 +58,6 @@ Here are some ideas to get you started:
   <img width="26px" src="https://avatars2.githubusercontent.com/u/6911160?s=200&v=4" />
   <img width="26px" src="https://avatars1.githubusercontent.com/u/168166?s=200&v=4" />
   <img width="26px" src="https://avatars1.githubusercontent.com/u/6181431?s=200&v=4" />
-  <img width="26px" src="https://avatars1.githubusercontent.com/u/6181431?s=200&v=4" />
   <img width="26px" src="https://avatars3.githubusercontent.com/u/7174390?s=200&v=4" />
   <img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
   <img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
