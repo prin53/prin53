@@ -7,7 +7,7 @@ I'm a software engineer developing cross-platform mobile apps using [Xamarin](ht
 
 ✉️ <fiediaiev@sbyte.dev>
 
-🌐 <a href="https://ref.sbyte.dev/linkedin-prin53">https://linkedin.com/in/prin53</a>
+🌐 [https://linkedin.com/in/prin53](https://ref.sbyte.dev/linkedin-prin53)
 
 ### Platforms
 <p>
